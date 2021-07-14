@@ -1,5 +1,5 @@
 * [DiscordServer](https://discord.com/invite/Sme64hw5Fe)
-* TestOrbwalker (Free)
+* [TestOrbwalker (Free)](https://streamable.com/0icpwt)
     * CustomOrbwalker
     * Internal Champion Support:
         * Kaisa, Vayne, Aphelios, Jinx, Twitch
@@ -7,7 +7,7 @@
         * Draven, Tristana, Yasuo, TwistedFate, Irelia
         * Gwen, Lucian, Katarina, Sett, DrMundo, Riven
         * Xayah, Ezreal
-    * Simple Tracker
+    * Simple Tracker (https://streamable.com/2dk5yn)
 * TestPrediction (Free)
 * TestTargetSelector (Free)
 
