@@ -1,5 +1,5 @@
 * [DiscordServer](https://discord.com/invite/Sme64hw5Fe)
-* [TestOrbwalker (Free)](https://streamable.com/0icpwt)
+* [TestOrbwalker (Paid)](https://streamable.com/0icpwt)
     * CustomOrbwalker
     * Internal Champion Support:
         * Kaisa, Vayne, Aphelios, Jinx, Twitch
