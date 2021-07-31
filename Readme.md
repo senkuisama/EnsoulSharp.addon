@@ -6,7 +6,8 @@
         * KogMaw, Samira, Ashe, Caitlyn, Varus
         * Draven, Tristana, Yasuo, TwistedFate, Irelia
         * Gwen, Lucian, Katarina, Sett, DrMundo, Riven
-        * Xayah, Ezreal, Sylas, Akshan, Yone.
+        * Xayah, Ezreal, Sylas, Akshan, Yone
+        * Pyke, Senna.
     * Simple Tracker (https://streamable.com/2dk5yn)
 * TestPrediction (Free)
 * TestTargetSelector (Free)
