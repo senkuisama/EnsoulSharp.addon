@@ -7,7 +7,7 @@
         * Draven, Tristana, Yasuo, TwistedFate, Irelia
         * Gwen, Lucian, Katarina, Sett, DrMundo, Riven
         * Xayah, Ezreal, Sylas, Akshan, Yone
-        * Pyke, Senna, Fiora, Corki, Xerath, Viktor.
+        * Pyke, Senna, Fiora, Corki, Xerath, Viktor, Cassopeia.
     * Simple Tracker (https://streamable.com/2dk5yn)
 * TestPrediction (Free)
 * TestTargetSelector (Free)
