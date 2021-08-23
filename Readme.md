@@ -8,7 +8,8 @@
         * Gwen, Lucian, Katarina, Sett, DrMundo, Riven
         * Xayah, Ezreal, Sylas, Akshan, Yone
         * Pyke, Senna, Fiora, Corki, Xerath, Viktor
-        * Cassopeia, Camille, Leblanc, Aatrox, Zed, LeeSin.
+        * Cassopeia, Camille, Leblanc, Aatrox, Zed, LeeSin
+        * Karthus, Evelynn, MissFortune, Udyr, Urgot.
     * Simple Tracker (https://streamable.com/2dk5yn)
 * TestPrediction (Free)
 * TestTargetSelector (Free)
