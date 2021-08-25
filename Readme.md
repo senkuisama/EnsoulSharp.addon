@@ -9,7 +9,7 @@
         * Xayah, Ezreal, Sylas, Akshan, Yone
         * Pyke, Senna, Fiora, Corki, Xerath, Viktor
         * Cassopeia, Camille, Leblanc, Aatrox, Zed, LeeSin
-        * Karthus, Evelynn, MissFortune, Udyr, Urgot.
+        * Karthus, Evelynn, MissFortune, Udyr, Urgot, Kennen.
     * Simple Tracker (https://streamable.com/2dk5yn)
 * TestPrediction (Free)
 * TestTargetSelector (Free)
