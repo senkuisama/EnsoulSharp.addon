@@ -10,7 +10,7 @@
         * Pyke, Senna, Fiora, Corki, Xerath, Viktor
         * Cassopeia, Camille, Leblanc, Aatrox, Zed, LeeSin
         * Karthus, Evelynn, MissFortune, Udyr, Urgot, Kennen
-        * Gangplank.
+        * Gangplank, Jhin.
     * Simple Tracker (https://streamable.com/2dk5yn)
 * TestPrediction (Free)
 * TestTargetSelector (Free)
