@@ -10,9 +10,9 @@
         * Pyke, Senna, Fiora, Corki, Xerath, Viktor
         * Cassopeia, Camille, Leblanc, Aatrox, Zed, LeeSin
         * Karthus, Evelynn, MissFortune, Udyr, Urgot, Kennen
-        * Gangplank, Jhin, Ryze, Vex，Swain, Akali, Graves.
+        * Gangplank, Jhin, Ryze, Vex，Swain, Akali, Graves, Warwick, Brand.
     * Simple Tracker (https://streamable.com/2dk5yn)
-* TestPrediction (Free)
+* TestPrediction (OutDate)
 * TestTargetSelector (Free)
 
 * [Github Link](https://github.com/senkuisama/EnsoulSharp.addon)
